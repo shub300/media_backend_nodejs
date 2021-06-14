@@ -9,7 +9,7 @@ After downloading the app do the following:
 ```bash
 * npm install
 
-* Rename .env.example file to .env
+* Rename .env_example file to .env
 
 * ATLAS_URI DB string and other parameters like JWT_TIMEOUT_DURATION, JWT_SECRET can be easily modified in .env file
 
